@@ -1,0 +1,35 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NurseryAppDemo.Application.Contracts/NurseryAppDemo.Application.Contracts.csproj" />
+    <Project Path="src/NurseryAppDemo.Application/NurseryAppDemo.Application.csproj" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <Project Path="src/NurseryAppDemo.DbMigrator/NurseryAppDemo.DbMigrator.csproj" />
+    <Project Path="src/NurseryAppDemo.Domain.Shared/NurseryAppDemo.Domain.Shared.csproj" />
+    <Project Path="src/NurseryAppDemo.Domain/NurseryAppDemo.Domain.csproj" />
+    <Project Path="src/NurseryAppDemo.EntityFrameworkCore/NurseryAppDemo.EntityFrameworkCore.csproj" />
+    <Project Path="src/NurseryAppDemo.HttpApi.Client/NurseryAppDemo.HttpApi.Client.csproj" />
+    
+    <Project Path="src/NurseryAppDemo.HttpApi.Host/NurseryAppDemo.HttpApi.Host.csproj" />
+    <Project Path="src/NurseryAppDemo.HttpApi/NurseryAppDemo.HttpApi.csproj" />
+    
+    
+    
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/NurseryAppDemo.Application.Tests/NurseryAppDemo.Application.Tests.csproj" />
+    <Project Path="test/NurseryAppDemo.Domain.Tests/NurseryAppDemo.Domain.Tests.csproj" />
+    <Project Path="test/NurseryAppDemo.EntityFrameworkCore.Tests/NurseryAppDemo.EntityFrameworkCore.Tests.csproj" />
+    <Project Path="test/NurseryAppDemo.HttpApi.Client.ConsoleTestApp/NurseryAppDemo.HttpApi.Client.ConsoleTestApp.csproj" />
+    
+    <Project Path="test/NurseryAppDemo.TestBase/NurseryAppDemo.TestBase.csproj" />
+    
+  </Folder>
+</Solution>

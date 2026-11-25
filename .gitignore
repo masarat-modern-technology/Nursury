@@ -1,0 +1,10 @@
+
+# Masarat local artifacts
+**/bin/
+**/obj/
+**/node_modules/
+**/Logs/
+**/dist/
+**/appsettings.Development.json
+**/appsettings.secrets.json
+**/*.pfx
